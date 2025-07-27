@@ -1,0 +1,8 @@
+name = "bitespeed-identify"
+main = "src/index.ts"
+compatibility_date = "2025-07-27"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bitespeed"
+database_id = "10ec68ee-a68a-4964-8d15-f35ef93ea529"

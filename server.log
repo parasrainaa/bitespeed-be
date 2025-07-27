@@ -1,0 +1,22 @@
+Database setup complete.
+Server listening on port 3000
+Received body: {
+  email: "lorraine@hillvalley.edu",
+  phoneNumber: "123456",
+}
+Received body: {
+  email: "mcfly@hillvalley.edu",
+  phoneNumber: "123456",
+}
+Received body: {
+  email: "george@hillvalley.edu",
+  phoneNumber: "919191",
+}
+Received body: {
+  email: "biffsucks@hillvalley.edu",
+  phoneNumber: "717171",
+}
+Received body: {
+  email: "george@hillvalley.edu",
+  phoneNumber: "717171",
+}

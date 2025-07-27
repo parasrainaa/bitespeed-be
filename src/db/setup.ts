@@ -17,6 +17,6 @@ CREATE TABLE IF NOT EXISTS Contact (
 
 db.run(createTableQuery);
 
-console.log('Database setup complete.');
+console.log('Database setup complete.');      
 
 export default db;
